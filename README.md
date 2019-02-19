@@ -9,7 +9,7 @@ First, we need to make sure you have Python installed, and then we need to insta
 - Open up a Terminal window and run `python3 -m pip install --user virtualenv` to install virtualenv
 - Run `python3 -m virtualenv venv` inside the root folder of the repository to create a virtualenv
 - Run `source venv/bin/activate` in the root folder of the repository to activate the virtualenv
-- Run `python3 -m pip install jupyter pandas` to install Jupyter and pandas
+- Run `python3 -m pip install jupyter pandas matplotlib` to install Jupyter and pandas
 
 Congratulations, you now have Jupyter set up and can run the `intro.ipynb` notebook. 
 
