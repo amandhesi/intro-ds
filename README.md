@@ -1,4 +1,4 @@
-# Data Analysis with Jupyter
+# Intro to Data Analysis with Jupyter
 -------
 
 ## Setup
