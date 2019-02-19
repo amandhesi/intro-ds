@@ -1,9 +1,11 @@
 # Intro to Data Analysis with Jupyter
 -------
 
+First, clone this repository locally. We will be running Jupyter locally and using it to work on the notebook in this repository.
+
 ## Setup
 
-First, we need to make sure you have Python installed, and then we need to install Jupyter. I recommend doing this inside a virtual environment to make your life simpler.
+We need to make sure you have Python installed, and then we need to install Jupyter. I recommend doing this inside a virtual environment to make your life simpler.
 
 - Download and install Python 3 here: https://www.python.org/downloads/
 - Open up a Terminal window and run `python3 -m pip install --user virtualenv` to install virtualenv
