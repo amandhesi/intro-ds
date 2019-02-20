@@ -19,3 +19,5 @@ Run `jupyter notebook` in a terminal window. Once the browser window opens with 
 
 ## Download Data
 Download this folder into the repository root folder: https://drive.google.com/drive/folders/172gJUolkx-lHSNXyDNZlqZYD3MDOgU2j?usp=sharing
+
+For an explanation of the fields in this dataset see here: https://docs.safegraph.com/docs/open-census-data#section-safegraph-neighborhood-patterns-data-cbg_patterns-csv-
